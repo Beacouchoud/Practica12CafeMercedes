@@ -21,6 +21,8 @@ li{
     padding: 2%;
     margin-inline-start: 0%;
     font-size: 80%;
+    width: 100px;
+    text-align: center;
     
 }
 a{
